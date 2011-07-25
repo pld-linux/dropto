@@ -36,5 +36,5 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc AUTHORS README THANKS
-%attr(755,root,root) %{_bindir}/dropto
+%attr(755,root,root) %{_sbindir}/dropto
 %{_mandir}/man8/dropto.8*
