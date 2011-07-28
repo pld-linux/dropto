@@ -1,11 +1,11 @@
 Summary:	Run a program as another user
 Name:		dropto
-Version:	0.3.1
-Release:	2
+Version:	0.3.2
+Release:	1
 License:	GPL v3
 Group:		Base/Utilities
 Source0:	http://users.ox.ac.uk/~tom/source/dropto/%{name}-%{version}.tar.gz
-# Source0-md5:	1c22adbe6c10c91a1037a8d5dd8220f8
+# Source0-md5:	f1a6e3b7e94f16336cf66d385dbe2d96
 URL:		http://users.ox.ac.uk/~tom/dropto/dropto.8
 BuildRequires:	asciidoc
 BuildRequires:	xmlto
