@@ -1,7 +1,7 @@
 Summary:	Run a program as another user
 Name:		dropto
 Version:	0.3.2
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Base/Utilities
 Source0:	http://users.ox.ac.uk/~tom/source/dropto/%{name}-%{version}.tar.gz
